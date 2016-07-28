@@ -6,12 +6,7 @@
  * Time: 13:35
  */
 
-/**
- * Created by PhpStorm.
- * User: Murat Saygılı
- * Date: 19.7.2016
- * Time: 10:12
- */
+
 
 require_once 'function.php';
 require_once 'config.php';
